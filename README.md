@@ -31,8 +31,4 @@ A **compiler** and an **interpreter** are both used to translate high-level prog
 - An **interpreter** is ideal for rapid development and debugging due to its line-by-line approach.
   An interpreter is like reading and translating the book line by line as you go.
 
-#Question - 1 :- What are 4 pillars of OOPS?
-1. Abstraction
-2. encapsulation
-3. Inheritence
-4. 
+
