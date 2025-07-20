@@ -10,7 +10,7 @@
   So, while it's possible in theory, in practice, programming languages are essential for effective and scalable communication with computers.
 # 3. What are the differences between high-level and low-level programming languages?
 The main difference lies in abstraction and closeness to hardware.
-High-level programming languages like Python, Java, or JavaScript are designed to be easy for humans to read and write. They are more abstracted from hardware and come with features like memory management, built-in libraries, and portability across systems.< br/>
+High-level programming languages like Python, Java, or JavaScript are designed to be easy for humans to read and write. They are more abstracted from hardware and come with features like memory management, built-in libraries, and portability across systems. <br />
 Low-level languages like Assembly or C provide less abstraction and give more direct control over hardware, making them ideal for system programming, embedded systems, or performance-critical applications.
 In short, high-level languages prioritize developer productivity and readability, while low-level languages offer better performance and control over system resources.
 #Question - 1 :- What are 4 pillars of OOPS?
